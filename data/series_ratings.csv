@@ -1,0 +1,36 @@
+user,series,rating
+Olivia,Formula 1,1
+Olivia,Home Game,1
+Olivia,House of Cards,-1
+Olivia,Bridge,-1
+Liam,Formula 1,1
+Liam,Ronaldo vs Messi,1
+Liam,House of Cards,-1
+Liam,Wallander,-1
+Liam,The Killing,-1
+Noah,Formula 1,1
+Noah,Home Game,1
+Noah,Ronaldo vs Messi,1
+Amelia,Borgen,1
+Amelia,House of Cards,1
+Elijah,Borgen,1
+Elijah,Bridge,1
+Sophia,Ronaldo vs Messi,-1
+Sophia,Borgen,1
+Sophia,Bridge,1
+Sophia,Wallander,1
+Sophia,The Killing,1
+Mateo,Ronaldo vs Messi,-1
+Mateo,Wallander,1
+Isabella,Ronaldo vs Messi,-1
+Isabella,Wallander,1
+Isabella,The Killing,1
+Lucas,Formula 1,-1
+Lucas,Home Game,-1
+Lucas,Ronaldo vs Messi,-1
+Lucas,Borgen,1
+Lucas,Bridge,1
+Mia,Formula 1,-1
+Mia,Ronaldo vs Messi,-1
+Mia,Borgen,1
+Mia,The Killing,1
